@@ -3,7 +3,7 @@
 ## Overview
 This repository accompanies the research paper "Precision Angle Seeking in Robots: A Reinforcement Learning Approach in Simulation and Reality." Our study investigates the application of Reinforcement Learning (RL) and Deep Reinforcement Learning (DRL) algorithms for precision angle seeking in robotic control, highlighting the transition from simulations to real-world applications. The "Angular Positioning Seeker (APS)" environment, built on stm32f103 and Raspberry Pi 4B+ platforms, serves as a novel benchmark for assessing RL algorithms under conditions that closely emulate real-world scenarios.
 
-Our website: [https://ethan-chen-plus.github.io/RealWorldRLLabs](https://roboangleseeker.github.io/robo-angle-seeker.github.io/)
+Our website: [https://roboangleseeker.github.io/robo-angle-seeker.github.io/](https://roboangleseeker.github.io/robo-angle-seeker.github.io/)
 
 ## Features
 - Advanced RL and DRL algorithms for precision control of robotic angles.
